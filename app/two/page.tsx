@@ -17,9 +17,6 @@ export default function Page() {
           <h2 className="text-2xl font-semibold mb-4">Documentation</h2>
           <p className="text-base leading-relaxed mb-5">
             The contrast in the quality of documentation between Vercel for Next.js and Google for Angular is remarkable. When faced with a specific problem, Vercel provides exceptional documentation, available in both video and written formats. This resource not only covers features comprehensively but also helps users navigate common pitfalls effectively. In contrast, locating the necessary information for Angular via Google can be more challenging.</p>
-          <h2 className="text-2xl font-semibold mb-4">Documentation</h2>
-          <p className="text-base leading-relaxed mb-5">
-            The contrast in the quality of documentation between Vercel for Next.js and Google for Angular is remarkable. When faced with a specific problem, Vercel provides exceptional documentation, available in both video and written formats. This resource not only covers features comprehensively but also helps users navigate common pitfalls effectively. In contrast, locating the necessary information for Angular via Google can be more challenging.</p>
           <h2 className="text-2xl font-semibold mb-4">Customization</h2>
           <p className="text-base leading-relaxed mb-5">
             Next.js offers a more flexible setup compared to Angular. While it does provide structured guidance on routing, its foundation on React&#39;s library gives developers the freedom to tailor the setup with their choice of npm packages. In contrast, Angular comes with a more extensive suite of built-in tools, encompassing forms, HTTP client, animations, and others, offering a more comprehensive out-of-the-box experience.</p>
