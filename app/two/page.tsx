@@ -1,10 +1,10 @@
 export default function Page() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-white">
-      <div className="max-w-3xl w-full text-center font-serif">
+      <div className="max-w-3xl w-full text-center font-serif text-gray-600">
         <h1 className="text-3xl text-left font-bold mb-6">How would you compare Next.js with another framework? Feel free to compare with a framework of your choice.</h1>
 
-        <div className="text-left mb-8">
+        <div className="text-left mb-8 ">
           <h2 className="text-2xl font-semibold mb-2">Next.js vs Angular</h2>
           <h2 className="text-2xl font-semibold mb-4">Rendering</h2>
           <p className="text-base leading-relaxed mb-5">

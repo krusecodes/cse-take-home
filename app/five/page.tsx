@@ -1,7 +1,7 @@
 export default function Page() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-white">
-      <div className="max-w-3xl w-full text-center font-serif">
+      <div className="max-w-3xl w-full text-center font-serif text-gray-600">
       <h1 className="text-3xl text-left font-bold mb-6">Imagine that the customer from Question 4 responds with the following email. “I&apos;m so frustrated. I&apos;ve been trying to make this work for hours and I just can&apos;t figure it out. It must be a platform issue so why don&apos;t you just fix it for me instead of asking me questions.” Write a reply to the customer addressing the concerns raised.</h1>
         
         <div className="text-left mb-8">

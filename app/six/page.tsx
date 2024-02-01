@@ -1,7 +1,7 @@
 export default function Page() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-white">
-      <div className="max-w-3xl w-full text-center font-serif">
+      <div className="max-w-3xl w-full text-center font-serif text-gray-600">
         <h1 className="text-3xl text-left font-bold mb-6">A customer is creating a site and would like their project not to be indexed by search engines.</h1>
 
         <div className="text-left mb-8">
